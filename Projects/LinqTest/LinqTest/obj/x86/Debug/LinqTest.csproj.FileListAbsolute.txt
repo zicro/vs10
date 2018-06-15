@@ -1,0 +1,8 @@
+c:\users\xlion\documents\visual studio 2010\Projects\LinqTest\LinqTest\bin\Debug\LinqTest.exe
+c:\users\xlion\documents\visual studio 2010\Projects\LinqTest\LinqTest\bin\Debug\LinqTest.pdb
+c:\users\xlion\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\LinqTest.Form1.resources
+c:\users\xlion\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\LinqTest.Properties.Resources.resources
+c:\users\xlion\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\LinqTest.csproj.GenerateResource.Cache
+c:\users\xlion\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\LinqTest.exe
+c:\users\xlion\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\LinqTest.pdb
+C:\Users\xLion\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\LinqTest.csprojResolveAssemblyReference.cache
