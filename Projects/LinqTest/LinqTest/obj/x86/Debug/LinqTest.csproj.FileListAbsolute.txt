@@ -6,3 +6,5 @@ c:\users\xlion\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\D
 c:\users\xlion\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\LinqTest.exe
 c:\users\xlion\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\LinqTest.pdb
 C:\Users\xLion\documents\visual studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\LinqTest.csprojResolveAssemblyReference.cache
+C:\Users\xLion\Documents\Visual Studio 2010\Projects\LinqTest\LinqTest\bin\Debug\LinqTest.exe.config
+C:\Users\xLion\Documents\Visual Studio 2010\Projects\LinqTest\LinqTest\obj\x86\Debug\LinqTest.Form2.resources

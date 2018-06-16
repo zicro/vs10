@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="4f7f55f4-ba70-462d-99bf-457752d7f4ba" absoluteBounds="0.75, 0.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DataClasses1DataContext/Employee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="33f57e5e-0b62-48bb-bdce-10506f12565e" absoluteBounds="0.765, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="02c835e0-64a9-4bd9-8bbd-92b77de2203a" absoluteBounds="3.5, 1.25, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/DataClasses1DataContext/Phone" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c0d9a42d-551d-4605-8e1b-b993ff8eac9e" absoluteBounds="3.515, 1.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.84699625651042); (3.5 : 1.84699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/Employee/Employee_Phone" />
+      <nodes>
+        <classShapeMoniker Id="4f7f55f4-ba70-462d-99bf-457752d7f4ba" />
+        <classShapeMoniker Id="02c835e0-64a9-4bd9-8bbd-92b77de2203a" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
